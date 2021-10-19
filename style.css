@@ -1,0 +1,55 @@
+#IMG2 {
+ height: 70px; 
+ width: 70px; 
+ margin-left: 12px; 
+}
+
+IMG {
+    border-radius: 10px;
+}
+
+#TITLE {
+margin-left: 55px;
+}
+
+#VS {
+    color: crimson;
+}
+
+.TestImageAndResult {
+    background-color: gray;
+    border-radius: 35px;
+}
+
+#one {
+margin-right: 0;
+margin-left: 30px;
+}
+
+.TestImageAndResult2 {
+    background-color: gray;
+    border-radius: 35px;
+    margin-top: 20px;
+}
+
+#two {
+    margin-right: 0;
+    margin-left: 30px;
+    }
+
+    .TestImageAndResult3 {
+        background-color: gray;
+        border-radius: 35px;
+        margin-top: 20px;
+    }
+    
+    #three {
+        margin-right: 0;
+        margin-left: 30px;
+        }
+
+        #BRUH {
+            margin-top: 30px;  
+            font-size: large;
+            color: indigo;
+        }
